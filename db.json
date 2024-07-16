@@ -1,0 +1,189 @@
+{
+    
+     
+      "products": [
+        {
+          "id": "001",
+          "team": "Arsenal",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzt0wb5JnhAEv3JZwKgqkDBzRuLkmU5BXtg&s"
+          }
+        },
+        {
+          "id": "002",
+          "team": "Aston Villa",
+          "jersey": {
+            "price": 1300,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnJCIbOKE2X2OWFRcgPG2Ao2MCDY1N3oMbg&s"
+          }
+        },
+        {
+          "id": "003",
+          "team": "Bournemouth",
+          "jersey": {
+            "price": 1350,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2OFCapa6KzpNSWlRhaOv5xW1zlMpfYMHTQ&s"
+          }
+        },
+        {
+          "id": "004",
+          "team": "Brentford",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7tDB7UM9tMtv2VFw42UJQh0zvJcI9mHU17w&s"
+          }
+        },
+        {
+          "id": "005",
+          "team": "Brighton & Hove Albion",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0H0gxmHTmFviORXgObAWrV0WGm2IZLIiPA&s"
+          }
+        },
+        {
+          "id": "006",
+          "team": "Burnley",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJJM534LR0L_AR1tRAPbx5jayMVg4DiQoWA&s"
+          }
+        },
+        {
+          "id": "007",
+          "team": "Chelsea",
+          "jersey": {
+            "price": 1400,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCeLLfAZpH6j09G5t8u091ZlNjjbc1tJ2tw&s"
+          }
+        },
+        {
+          "id": "008",
+          "team": "Crystal Palace",
+          "jersey": {
+            "price": 1250,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXkfaVoFBPrTs3Eih4qZDsur-XZPpQh4VKA&s"
+          }
+        },
+        {
+          "id": "009",
+          "team": "Everton",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47ahPGfvuhXwytPTk11puEDxl-EBUXwdygQ&s"
+          }
+        },
+        {
+          "id": "010",
+          "team": "Fulham",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPsPBoMYJFlVQUZBpWjGMkezaL7unXGzdSQ&s"
+          }
+        },
+        {
+          "id": "011",
+          "team": "Liverpool",
+          "jersey": {
+            "price": 1500,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2h3YvrYzxfwXNacmJAcH6tvCHYIUclcjoA&s"
+          }
+        },
+        {
+          "id": "012",
+          "team": "Luton Town",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTjmo6ab0F-O7b5wcH3ixhbSSt9SQHcEDHg&s"
+          }
+        },
+        {
+          "id": "013",
+          "team": "Manchester City",
+          "jersey": {
+            "price": 1500,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXS8OTsB_wX2mZEA4W3VdGYS9QQ-HCfQpa_g&s"
+          }
+        },
+        {
+          "id": "014",
+          "team": "Manchester United",
+          "jersey": {
+            "price": 1600,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74PIclO4QmqrGxp-wZQCaxQdW2Q2376r1Qw&s"
+          }
+        },
+        {
+          "id": "015",
+          "team": "Newcastle United",
+          "jersey": {
+            "price": 1500,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6beerp7N749yXG4yLFlK_gclEKobPw3kRAg&s"
+          }
+        },
+        {
+          "id": "016",
+          "team": "Nottingham Forest",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY062e2VMEXlgcrk76Fbkmj5jHjSESC2rHw&s"
+          }
+        },
+        {
+          "id": "017",
+          "team": "Sheffield United",
+          "jersey": {
+            "price": 1200,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHVRRMnEJ-dZUSazXc5wSwgJn9GXMaRvnaw&s"
+          }
+        },
+        {
+          "id": "018",
+          "team": "Tottenham Hotspur",
+          "jersey": {
+            "price": 1400,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-k_-_r5OYIbtVyvGGR3p74rjyFiYP5abUQ&s"
+          }
+        },
+        {
+          "id": "019",
+          "team": "West Ham United",
+          "jersey": {
+            "price": 1300,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://assets.goal.com/images/v3/blt4888dc3b0205ed49/GOAL_-_Multiple_Images_-_2_Split_-_Facebook.jpg?auto=webp&format=pjpg&width=640&quality=60"
+          }
+        },
+        {
+          "id": "020",
+          "team": "Wolverhampton Wanderers",
+          "jersey": {
+            "price": 1300,
+            "size": ["S", "M", "L", "XL"],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309bt8n4dQcTA6Eq2N_WYuqNcJQe6Swt-bA&s"
+          }
+        }
+      ]
+     
+    }
+  
+  

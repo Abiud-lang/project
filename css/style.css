@@ -1,0 +1,168 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    
+
+}
+header img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding-left: 20px;
+}
+ul{
+    display: flex;
+ 
+    padding-right: 20px;
+    list-style-type: none;
+    margin: 10px;
+    padding-right: 30px;
+    
+
+}
+
+ul a{
+    color: beige;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+    display: block;
+
+}
+ul a:hover{
+    color: rgb(247, 64, 207);
+}
+
+.hero{
+    
+    min-height: 100vh;
+    background-color: rgb(56, 7, 56);
+}
+
+.text{
+    text-align: center;
+    font-size: 36px;
+    color: beige;
+    padding-top: 100px;
+}
+.shop{
+    font-size: 20px;
+    border-radius: 10px;
+    font-style: italic;
+    
+}
+
+
+
+
+.jersey-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+.jersey {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(56, 7, 56);
+    
+}
+
+
+
+.jersey img {
+    max-width: 100%;
+    height: auto;
+}
+
+.hero-1{
+    
+    
+    align-items: center;
+    justify-content: center;
+    color: rgb(49, 3, 49);
+    text-align: center;
+    font-style:italic;
+    font-size: 18px;
+    padding: 50px;
+
+
+}
+
+.contact-form-container{
+    display: flex;
+}
+
+
+.jersey-container, .cart-container{
+    display: flex 1;
+}
+
+.contact-form-container{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(56, 7, 56);
+    text-align: center;
+    border-radius: 20px;
+    color: beige;
+}
+.left-section{
+    padding-left: 20px;
+}
+
+.left-section img{
+    border-radius: 20px;
+    height: 300px;
+    width: 400px;
+    padding-top: 30px;
+}
+.social-icons{
+    font-size: 30px;
+    text-align: center;
+    color: beige;
+}
+.reachout{
+    text-align: center;
+    color: beige;
+}
+.right-section{
+    padding: 100px;
+    align-items: center;
+}
+
+form{
+    font-size: 20px;
+    padding: 20px;
+}
+.form-group{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+button{
+    font-size: 15px;
+    background-color: beige(56, 7, 56);
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: rgb(56, 7, 56);
+}
+
+.footer-content{
+    text-align: center;
+    background-color: rgb(31, 3, 31);
+    font-size: 18px;
+    padding: 20px;
+    color: beige;
+}
