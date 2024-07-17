@@ -23,28 +23,28 @@ function fetchProducts() {
                 const jerseySize = document.createElement('p');
                 jerseySize.textContent = `Sizes: ${product.jersey.size.join(', ')}`;
 
-                // const quantityLabel = document.createElement('label');
-                // quantityLabel.textContent = 'Quantity: ';
+                const quantityLabel = document.createElement('label');
+                quantityLabel.textContent = 'Quantity: ';
 
-                // const quantityInput = document.createElement('input');
-                // quantityInput.type = 'number';
-                // quantityInput.min = 1;
-                // quantityInput.value = 1;
+                const quantityInput = document.createElement('input');
+                quantityInput.type = 'number';
+                quantityInput.min = 1;
+                quantityInput.value = 1;
 
                 const btn = document.createElement('button');
                 btn.textContent = 'Add to cart';
 
-                // btn.addEventListener('click', () => {
-                //     const selectedQuantity = parseInt(quantityInput.value);
-                //     addToCart(product, selectedQuantity);
-                // });
+                btn.addEventListener('click', () => {
+                    const selectedQuantity = parseInt(quantityInput.value);
+                    addToCart(product, selectedQuantity);
+                });
 
                 jerseyDiv.appendChild(jerseyImg);
                 jerseyDiv.appendChild(jerseyTeam);
                 jerseyDiv.appendChild(jerseyPrice);
                 jerseyDiv.appendChild(jerseySize);
-                // jerseyDiv.appendChild(quantityLabel);
-                // jerseyDiv.appendChild(quantityInput);
+                jerseyDiv.appendChild(quantityLabel);
+                jerseyDiv.appendChild(quantityInput);
                 jerseyDiv.appendChild(btn);
 
                 container.appendChild(jerseyDiv);
