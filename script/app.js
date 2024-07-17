@@ -1,4 +1,4 @@
-// URL of the API endpoint
+
 const url = "http://localhost:3000/products";
 
 function fetchProducts() {
