@@ -152,7 +152,7 @@ form{
 button{
     font-size: 15px;
     background-color: beige(56, 7, 56);
-    border-radius: 10px;
+    border-radius: 5px;
 
 }
 button:hover{
