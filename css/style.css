@@ -151,12 +151,13 @@ form{
 }
 button{
     font-size: 15px;
-    background-color: beige(56, 7, 56);
+    background-color: rgb(56, 7, 56);
+    color: bisque;
     border-radius: 5px;
 
 }
 button:hover{
-    background-color: rgb(56, 7, 56);
+    background-color: white;
 }
 
 .footer-content{
