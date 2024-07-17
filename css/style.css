@@ -50,7 +50,7 @@ ul a:hover{
     font-size: 20px;
     border-radius: 10px;
     font-style: italic;
-    
+
 }
 
 
@@ -121,8 +121,8 @@ ul a:hover{
 .left-section img{
     border-radius: 20px;
     height: 300px;
-    width: 400px;
-    padding-top: 30px;
+    width: 500px;
+    padding: 30px;
 }
 .social-icons{
     font-size: 30px;
