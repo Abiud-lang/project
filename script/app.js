@@ -10,7 +10,7 @@ function fetchProducts() {
         .then(res => res.json())
         .then(products => {
             const container = document.querySelector('.jersey-container');
-            container.innerHTML = '';
+            container.innerHTML = ''; 
 
             products.map(product => {
                 renderJersey(product, container);
@@ -55,7 +55,7 @@ function setupAddForm() {
             team: formData.get('team'),
             jersey: {
                 image: formData.get('image'),
-                number: formData.get('number'),
+                number: formData.get('number'), 
                 size: formData.get('size').split(',').map(size => size.trim())
             }
         };

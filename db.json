@@ -279,20 +279,8 @@
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309bt8n4dQcTA6Eq2N_WYuqNcJQe6Swt-bA&s"
       }
-    },
-    {
-      "id": "39ee",
-      "team": "real madrid",
-      "jersey": {
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5b9g7DHD4yv5ul6bIpaR-weCR-aPImNHS-1s3o3tR7vtKrcpPUA74qm3T7V-8A8bR79CvaBg89xbKd3LSohMFmFwHaW1ceur9URxPBHZKq4wDZBlYwqGIZf0Puij1CQRgtrzRSfH0rxRmdH-bv5eDsaShXkp886CaPNnbd5ys6sfrXQ5yvfOnOfkqm_I/s600/real-madrid-24-25-kit-16.jpg",
-        "number": "5",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ]
-      }
     }
+    
+     
   ]
 }

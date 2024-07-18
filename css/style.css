@@ -8,11 +8,14 @@ header{
     
 
 }
-header img {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
+header h2 {
+  color: beige;
+  font-style: italic;
   
+}
+
+header h2 span{
+    color: aqua;
 }
 ul{
     display: flex;
@@ -26,7 +29,7 @@ ul{
 }
 
 ul a{
-    color: beige;
+    color: aqua;
     text-decoration: none;
     padding: 15px;
     text-align: center;
@@ -50,18 +53,12 @@ ul a:hover{
     padding:50px;
 }
 
-
-
-
-
-
 .jersey-container {
     display: flex;
     flex-wrap: wrap;
     
     
 }
-
 
 .jersey {
     border: 1px solid #ddd;
@@ -73,7 +70,6 @@ ul a:hover{
     color: rgb(56, 7, 56);
     
 }
-
 
 
 .jersey img {
@@ -203,3 +199,4 @@ button:hover{
     padding: 20px;
     color: beige;
 }
+
