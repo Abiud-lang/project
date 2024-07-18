@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/products";
+const url = "https://phase-1-project-self.vercel.app/products";
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchProducts();
