@@ -10,7 +10,7 @@ function fetchProducts() {
         .then(res => res.json())
         .then(products => {
             const container = document.querySelector('.jersey-container');
-            container.innerHTML = ''; 
+            container.innerHTML = ''; // Clear previous content
 
             products.map(product => {
                 renderJersey(product, container);
@@ -36,10 +36,14 @@ function renderJersey(product, container) {
     const jerseySize = document.createElement('p');
     jerseySize.textContent = `Sizes: ${product.jersey.size.join(', ')}`;
 
+   
+
+
     jerseyDiv.appendChild(jerseyImg);
     jerseyDiv.appendChild(jerseyTeam);
     jerseyDiv.appendChild(jerseyNumber);
     jerseyDiv.appendChild(jerseySize);
+    
 
     container.appendChild(jerseyDiv);
 }
@@ -55,7 +59,7 @@ function setupAddForm() {
             team: formData.get('team'),
             jersey: {
                 image: formData.get('image'),
-                number: formData.get('number'), 
+                number: formData.get('number'), // Capture the number field
                 size: formData.get('size').split(',').map(size => size.trim())
             }
         };
@@ -74,12 +78,15 @@ function addJersey(newJersey) {
     })
     .then(response => response.json())
     .then(() => {
-        fetchProducts(); 
+        fetchProducts(); // Refresh the product list after adding
         clearAddForm();
-      
+        alert('Jersey added successfully!');
+    
+        
     })
   
 }
+
 
 function clearAddForm() {
     document.querySelector('.add-jersey-form').reset();

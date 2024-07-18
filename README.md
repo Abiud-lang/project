@@ -16,7 +16,7 @@ Welcome to Jersey Store Kenya, a website where football enthusiasts can add and 
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **JSON Server** (for backend)
+- **JSON Server** 
 
 ## Setup and Installation
 
