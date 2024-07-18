@@ -55,7 +55,7 @@ function setupAddForm() {
             team: formData.get('team'),
             jersey: {
                 image: formData.get('image'),
-                number: formData.get('number'), // Capture the number field
+                number: formData.get('number'),
                 size: formData.get('size').split(',').map(size => size.trim())
             }
         };
