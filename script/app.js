@@ -10,7 +10,7 @@ function fetchProducts() {
         .then(res => res.json())
         .then(products => {
             const container = document.querySelector('.jersey-container');
-            container.innerHTML = ''; // Clear previous content
+            container.innerHTML = '';
 
             products.map(product => {
                 renderJersey(product, container);
@@ -74,7 +74,7 @@ function addJersey(newJersey) {
     })
     .then(response => response.json())
     .then(() => {
-        fetchProducts(); // Refresh the product list after adding
+        fetchProducts(); 
         clearAddForm();
       
     })
