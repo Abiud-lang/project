@@ -52,7 +52,7 @@ Welcome to Jersey Store Kenya, a website where football enthusiasts can add and 
 - View the list of added jerseys in the main section of the page.
 
 ## Live link
-
+https://project-rouge-two.vercel.app/
  ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
