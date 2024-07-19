@@ -5,12 +5,7 @@
       "team": "Arsenal",
       "jersey": {
         "number": "7",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzt0wb5JnhAEv3JZwKgqkDBzRuLkmU5BXtg&s"
       }
     },
@@ -19,12 +14,7 @@
       "team": "Aston Villa",
       "jersey": {
         "number": "16",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnJCIbOKE2X2OWFRcgPG2Ao2MCDY1N3oMbg&s"
       }
     },
@@ -33,12 +23,7 @@
       "team": "Bournemouth",
       "jersey": {
         "number": "10",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe2OFCapa6KzpNSWlRhaOv5xW1zlMpfYMHTQ&s"
       }
     },
@@ -47,12 +32,7 @@
       "team": "Brentford",
       "jersey": {
         "number": "14",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+      
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7tDB7UM9tMtv2VFw42UJQh0zvJcI9mHU17w&s"
       }
     },
@@ -61,12 +41,7 @@
       "team": "Brighton & Hove Albion",
       "jersey": {
         "number": "33",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0H0gxmHTmFviORXgObAWrV0WGm2IZLIiPA&s"
       }
     },
@@ -75,12 +50,7 @@
       "team": "Burnley",
       "jersey": {
         "number": "31",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJJM534LR0L_AR1tRAPbx5jayMVg4DiQoWA&s"
       }
     },
@@ -89,12 +59,7 @@
       "team": "Chelsea",
       "jersey": {
         "number": "5",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+      
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCeLLfAZpH6j09G5t8u091ZlNjjbc1tJ2tw&s"
       }
     },
@@ -103,12 +68,7 @@
       "team": "Crystal Palace",
       "jersey": {
         "number": "19",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXkfaVoFBPrTs3Eih4qZDsur-XZPpQh4VKA&s"
       }
     },
@@ -117,12 +77,7 @@
       "team": "Everton",
       "jersey": {
         "number": "22",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47ahPGfvuhXwytPTk11puEDxl-EBUXwdygQ&s"
       }
     },
@@ -131,12 +86,7 @@
       "team": "Fulham",
       "jersey": {
         "number": "77",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+      
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPsPBoMYJFlVQUZBpWjGMkezaL7unXGzdSQ&s"
       }
     },
@@ -145,12 +95,7 @@
       "team": "Liverpool",
       "jersey": {
         "number": "15",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2h3YvrYzxfwXNacmJAcH6tvCHYIUclcjoA&s"
       }
     },
@@ -159,12 +104,7 @@
       "team": "Luton Town",
       "jersey": {
         "number": "40",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTjmo6ab0F-O7b5wcH3ixhbSSt9SQHcEDHg&s"
       }
     },
@@ -173,12 +113,7 @@
       "team": "Manchester City",
       "jersey": {
         "number": "17",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXS8OTsB_wX2mZEA4W3VdGYS9QQ-HCfQpa_g&s"
       }
     },
@@ -187,12 +122,7 @@
       "team": "Manchester United",
       "jersey": {
         "number": "29",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74PIclO4QmqrGxp-wZQCaxQdW2Q2376r1Qw&s"
       }
     },
@@ -201,12 +131,7 @@
       "team": "Newcastle United",
       "jersey": {
         "number": "11",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+      
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6beerp7N749yXG4yLFlK_gclEKobPw3kRAg&s"
       }
     },
@@ -215,12 +140,7 @@
       "team": "Nottingham Forest",
       "jersey": {
         "number": "24",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY062e2VMEXlgcrk76Fbkmj5jHjSESC2rHw&s"
       }
     },
@@ -229,12 +149,7 @@
       "team": "Sheffield United",
       "jersey": {
         "number": "4",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHVRRMnEJ-dZUSazXc5wSwgJn9GXMaRvnaw&s"
       }
     },
@@ -243,12 +158,7 @@
       "team": "Tottenham Hotspur",
       "jersey": {
         "number": "66",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-k_-_r5OYIbtVyvGGR3p74rjyFiYP5abUQ&s"
       }
     },
@@ -257,12 +167,7 @@
       "team": "West Ham United",
       "jersey": {
         "number": "56",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
+        
         "image": "https://assets.goal.com/images/v3/blt4888dc3b0205ed49/GOAL_-_Multiple_Images_-_2_Split_-_Facebook.jpg?auto=webp&format=pjpg&width=640&quality=60"
       }
     },
@@ -271,12 +176,6 @@
       "team": "Wolverhampton Wanderers",
       "jersey": {
         "number": "20",
-        "size": [
-          "S",
-          "M",
-          "L",
-          "XL"
-        ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309bt8n4dQcTA6Eq2N_WYuqNcJQe6Swt-bA&s"
       }
     }
