@@ -47,6 +47,7 @@ function setupAddForm() {
 
     addForm.addEventListener('submit', event => {
         event.preventDefault();
+        
 
         const newJersey = {
             team: document.getElementById('team').value,
@@ -57,10 +58,12 @@ function setupAddForm() {
         };
 
         addJersey(newJersey);
+        addForm.reset();
+         
     });
 }
 
-function addJersey(newJersey) {
+function addJersey( newJersey) {
     fetch(url, {
         method: 'POST',
         headers: {
@@ -70,13 +73,15 @@ function addJersey(newJersey) {
     })
     .then(response => response.json())
     .then(() => {
-        fetchProducts(); 
-        clearAddForm();
-        alert('Jersey added successfully!');
+        fetchProducts();
+        
+        
+       
     
         
     })
   
 }
+
 
 
